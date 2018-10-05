@@ -20,7 +20,7 @@ It makes it easier for users and contributors to see the most notable changes th
 {{% /release-notes-container %}}
 
 {{% release-notes-container type="f"%}}
-- Commission and currency rates are now keep unchanged between Quote and Book
+- Commission and currency rates are now kept unchanged between Quote and Book
 {{% /release-notes-container %}}
 
 {{% release-notes-container type="c"%}}
@@ -65,7 +65,7 @@ It makes it easier for users and contributors to see the most notable changes th
 ## 2018-07-24
 
 {{% release-notes-container type="a"%}}
-- New plugin, safety margin. You can see the documentation [here](/hotelx/plugins/safety_margin/).
+- New plugin, safety margin. You can check the documentation [here](/hotelx/plugins/safety_margin/).
 {{% /release-notes-container %}}
 
 ## 2018-07-18
